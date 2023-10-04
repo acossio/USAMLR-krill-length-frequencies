@@ -1,4 +1,4 @@
-# USAMLR_krill_length_frequencies
+# USAMLR-krill-length-frequencies
 Antarctic krill (Euphausia superba) length frequencies that are measured using Iaasc-Kidd Midwater Trawl (IKMT) from the US Antarctic Marine Living Resources research cruises around the South Shetland Island using 500 micro sized nets. Krill length frequencies were are also calcuated from penguin (Gentoo, Adele, or Chinstrap) diets.
 Summer research cruises and penguin diet samples were undertaken Between December and the end of February. Winter cruises usually took place in August. Penguin colonies are located on Cape Shirreff, Livingston Island, and the Copacabana field station on King George Island. The files are tab delimited text files.
 ## File names
