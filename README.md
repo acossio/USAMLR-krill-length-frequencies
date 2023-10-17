@@ -10,7 +10,7 @@ Penguin files are named according to the year the sampling took place, the area 
 W = West Area (North of the South Shetland Islands); EI = Elephant Island Area; S= South Area (Bransfield Strait); BS = Bransfield Strait
 
 ## Data
-The first column is the size of the krill measured. Then with IKMT files, the next columns are the length frequencies of Antarctic krill for the areas surveyed, according to the file name. 
+The first column is the size of the krill measured in millimeters. Then with IKMT files, the next columns are the length frequencies of Antarctic krill for the areas surveyed, according to the file name. 
 With penguin files first column is the size of the krill measured. Then the next columns are the penguin species that sampled the krill, according to the file name. 
 
 # Disclaimer
